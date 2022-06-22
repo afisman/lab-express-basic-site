@@ -1,0 +1,29 @@
+body {}
+
+footer {
+    background-color: #212429;
+    color: white;
+    padding: 10px;
+    font-size: .9em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.productImg {
+    width: auto;
+    object-fit: cover;
+    align-self: center;
+}
